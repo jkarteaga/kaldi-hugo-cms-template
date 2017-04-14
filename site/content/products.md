@@ -1,7 +1,7 @@
 ---
 title: mi Coffee
-type: productos
-page: /productos.html
+type: products
+page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-

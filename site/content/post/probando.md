@@ -5,4 +5,4 @@ description: mensaje de prueba
 image: /img/garrotazos.jpg
 ---
 
-![garrotazos](/img/garrotazos.jpg) ¿funciona?
+¿funciona?
